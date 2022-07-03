@@ -39,7 +39,6 @@ Es un facilitador que entrena y guía al equipo a lograr el objetivo. También t
 
 Esta conformado por los desarrolladores, tester, analiticos, y todo aquel que realiza las acciones para llevar a cabo el requerimiento. El equipo debe adaptarse al cambio y tener buena comunicación entre ellos para lograr éxito en sprint.
 
-
 **● Customer**
 
 Es quien toma las decisiones internas de la organización. Puede ser llamada Cliente Interno.
@@ -48,4 +47,20 @@ Es quien toma las decisiones internas de la organización. Puede ser llamada Cli
 
 Es quien va a utilizar el producto, es decir, el cliente o consumidor.
 
+### **Artefactos**
 
+Son las herramientas o elementos que se utilizan para el registro de la información necesaria y garantizar la transparencia del proceso.
+
+Pueden clasificarse en:
+
+**● Product Backlog (pila del producto)** 
+
+Requisitos Globales del prodcuto a desarrollar. Lista de Tareas. Lo mantiene el Product owner
+
+**● Sprint Backlog (Pila del sprint)**
+
+La parte del Product backlog a realizar en un sprint. Lista de item que se eligen para realizar en el sprint y no puede ser alterado hasta que el sprint se termine.
+
+**● Increment (incremento)**
+
+Resultado que se obtiene de cada Sprint. 
